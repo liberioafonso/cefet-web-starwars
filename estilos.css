@@ -64,3 +64,8 @@ body {
   color: cornflowerblue;
   text-decoration: underline;
 }
+
+#audio{
+  position: absolute;
+  right: 40px;
+}
